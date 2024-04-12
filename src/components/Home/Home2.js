@@ -16,40 +16,69 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              Let Me <span className="purple"> Introduce </span> Myself
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
+              Hey there! I'm Luke, a seasoned
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> senior software engineer </b>
+              </i>
+              specializing in
+              <i>
+                <b className="purple"> React and JavaScript </b>
+              </i>with a background in full-stack development.
+              <br />
+              <br />
+              My journey in the tech world spans over 10 years, where I've mastered the art of developing
+              <i>
+                <b className="purple"> responsive web interfaces and mobile applications </b>
+              </i>
+              using cutting-edge frameworks like
+              <i>
+                <b className="purple"> React Native.</b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              At Walmart, I modernized old codebases using
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple"> React Hook & Redux,</b>
+              </i> pushing the boundaries of functionality.
+              Amazon saw me managing
+              <i>
+                <b className="purple"> frontend </b>
               </i>
+              and
+              <i>
+                <b className="purple"> backend</b>
+              </i> projects, utilizing technologies like
+              <i>
+                <b className="purple"> React.js </b>
+              </i>
+              and
+              <i>
+                <b className="purple"> Node.js </b>
+              </i>
+              to enhance user experiences.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              I'm all about staying ahead in the tech game, constantly seeking innovative solutions to deliver top-tier results.
+              <br />
+              <br />
+              I have utilized the
               <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
+                <b className="purple"> Django framework </b>
               </i>
-              &nbsp; like
+              for
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> backend development </b>
               </i>
+              , leveraging its robust features and functionality to create scalable 
+              <i>
+                <b className="purple"> web applications</b>
+              </i>.
+              <br />
+              <br />
+              Let's dive into our discussion and explore how my experience can align with the opportunities at your organization!
             </p>
           </Col>
           <Col md={4} className="myAvtar">

@@ -5,17 +5,22 @@ import {
   SiPostman,
   SiSlack,
   SiVercel,
-  SiMacos,
+  SiAndroidstudio,
+  SiXcode,
+  SiMicrosoftteams,
 } from "react-icons/si";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMacos />
+        <SiVisualstudiocode />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
+        <SiXcode />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAndroidstudio />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostman />
@@ -24,7 +29,7 @@ function Toolstack() {
         <SiSlack />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
+        <SiMicrosoftteams />
       </Col>
     </Row>
   );
