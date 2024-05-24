@@ -23,62 +23,36 @@ function Home2() {
               <i>
                 <b className="purple"> senior software engineer </b>
               </i>
-              specializing in
-              <i>
-                <b className="purple"> React and JavaScript </b>
-              </i>with a background in full-stack development.
+              specializing in responsive web interfaces, cross-platform mobile
+              apps, and powerful backend systems.
               <br />
               <br />
-              My journey in the tech world spans over 10 years, where I've mastered the art of developing
+              My expertise lies in JavaScript frameworks like
               <i>
-                <b className="purple"> responsive web interfaces and mobile applications </b>
+                <b className="purple">
+                  {" "}
+                  React.js, React Native, Node.js, Vue.js and Angular.js.{" "}
+                </b>
               </i>
-              using cutting-edge frameworks like
+              Throughout my career, I've had the opportunity to lead projects at
+              big names like Walmart and Amazon, where I handled everything from
+              frontend development with{" "}
               <i>
-                <b className="purple"> React Native.</b>
-              </i>
+                <b className="purple">React and Next.js</b>
+              </i>{" "}
+              to backend systems with{" "}
+              <i>
+                <b className="purple">Node.js and GraphQL.</b>
+              </i>{" "}
               <br />
               <br />
-              At Walmart, I modernized old codebases using
-              <i>
-                <b className="purple"> React Hook & Redux,</b>
-              </i> pushing the boundaries of functionality.
-              Amazon saw me managing
-              <i>
-                <b className="purple"> frontend </b>
-              </i>
-              and
-              <i>
-                <b className="purple"> backend</b>
-              </i> projects, utilizing technologies like
-              <i>
-                <b className="purple"> React.js </b>
-              </i>
-              and
-              <i>
-                <b className="purple"> Node.js </b>
-              </i>
-              to enhance user experiences.
+              I'm well-versed in integrating third-party APIs, enhancing app
+              functionality, and conducting extensive testing to squash bugs
+              before they hit production.
               <br />
               <br />
-              I'm all about staying ahead in the tech game, constantly seeking innovative solutions to deliver top-tier results.
-              <br />
-              <br />
-              I have utilized the
-              <i>
-                <b className="purple"> Django framework </b>
-              </i>
-              for
-              <i>
-                <b className="purple"> backend development </b>
-              </i>
-              , leveraging its robust features and functionality to create scalable 
-              <i>
-                <b className="purple"> web applications</b>
-              </i>.
-              <br />
-              <br />
-              Let's dive into our discussion and explore how my experience can align with the opportunities at your organization!
+              Let's dive into our discussion and explore how my experience can
+              align with the opportunities at your organization!
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -122,16 +96,6 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
                 </a>
               </li>
             </ul>
