@@ -1,6 +1,6 @@
 ## Built With
 
-My personal portfolio <a href="https://luke.vercel.app/" target="_blank">luke.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://portfolio-luke-projects.vercel.app/" target="_blank">luke.ford</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
